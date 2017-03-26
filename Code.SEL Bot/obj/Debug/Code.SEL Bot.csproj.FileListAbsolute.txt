@@ -1,0 +1,43 @@
+D:\Desktop\Documents\University\Code.SEL Bot\Code.SEL Bot\bin\Debug\Code.SEL Bot.exe.config
+D:\Desktop\Documents\University\Code.SEL Bot\Code.SEL Bot\obj\Debug\Code.SEL Bot.csprojResolveAssemblyReference.cache
+D:\Desktop\Documents\University\Code.SEL Bot\Code.SEL Bot\bin\Debug\Code.SEL Bot.exe
+D:\Desktop\Documents\University\Code.SEL Bot\Code.SEL Bot\bin\Debug\Code.SEL Bot.pdb
+D:\Desktop\Documents\University\Code.SEL Bot\Code.SEL Bot\bin\Debug\Discord.Net.Commands.dll
+D:\Desktop\Documents\University\Code.SEL Bot\Code.SEL Bot\bin\Debug\Discord.Net.dll
+D:\Desktop\Documents\University\Code.SEL Bot\Code.SEL Bot\bin\Debug\Discord.Net.Modules.dll
+D:\Desktop\Documents\University\Code.SEL Bot\Code.SEL Bot\bin\Debug\Newtonsoft.Json.dll
+D:\Desktop\Documents\University\Code.SEL Bot\Code.SEL Bot\bin\Debug\Nito.AsyncEx.Concurrent.dll
+D:\Desktop\Documents\University\Code.SEL Bot\Code.SEL Bot\bin\Debug\Nito.AsyncEx.dll
+D:\Desktop\Documents\University\Code.SEL Bot\Code.SEL Bot\bin\Debug\Nito.AsyncEx.Enlightenment.dll
+D:\Desktop\Documents\University\Code.SEL Bot\Code.SEL Bot\bin\Debug\RestSharp.dll
+D:\Desktop\Documents\University\Code.SEL Bot\Code.SEL Bot\bin\Debug\WebSocket4Net.dll
+D:\Desktop\Documents\University\Code.SEL Bot\Code.SEL Bot\bin\Debug\Newtonsoft.Json.xml
+D:\Desktop\Documents\University\Code.SEL Bot\Code.SEL Bot\bin\Debug\Nito.AsyncEx.xml
+D:\Desktop\Documents\University\Code.SEL Bot\Code.SEL Bot\bin\Debug\Nito.AsyncEx.Concurrent.xml
+D:\Desktop\Documents\University\Code.SEL Bot\Code.SEL Bot\bin\Debug\Nito.AsyncEx.Enlightenment.xml
+D:\Desktop\Documents\University\Code.SEL Bot\Code.SEL Bot\bin\Debug\RestSharp.xml
+D:\Desktop\Documents\University\Code.SEL Bot\Code.SEL Bot\obj\Debug\Code.SEL Bot.exe
+D:\Desktop\Documents\University\Code.SEL Bot\Code.SEL Bot\obj\Debug\Code.SEL Bot.pdb
+D:\Desktop\Documents\Photoshop Projects\Code.SEL Reborn\Code.SEL Bot\Code.SEL Bot\bin\Debug\Code.SEL Bot.exe.config
+D:\Desktop\Documents\Photoshop Projects\Code.SEL Reborn\Code.SEL Bot\Code.SEL Bot\obj\Debug\Code.SEL Bot.exe
+D:\Desktop\Documents\Photoshop Projects\Code.SEL Reborn\Code.SEL Bot\Code.SEL Bot\obj\Debug\Code.SEL Bot.pdb
+D:\Desktop\Documents\Photoshop Projects\Code.SEL Reborn\Code.SEL Bot\Code.SEL Bot\bin\Debug\Code.SEL Bot.exe
+D:\Desktop\Documents\Photoshop Projects\Code.SEL Reborn\Code.SEL Bot\Code.SEL Bot\bin\Debug\Code.SEL Bot.pdb
+D:\Desktop\Documents\Photoshop Projects\Code.SEL Reborn\Code.SEL Bot\Code.SEL Bot\bin\Debug\Discord.Net.Commands.dll
+D:\Desktop\Documents\Photoshop Projects\Code.SEL Reborn\Code.SEL Bot\Code.SEL Bot\bin\Debug\Discord.Net.dll
+D:\Desktop\Documents\Photoshop Projects\Code.SEL Reborn\Code.SEL Bot\Code.SEL Bot\bin\Debug\Discord.Net.Modules.dll
+D:\Desktop\Documents\Photoshop Projects\Code.SEL Reborn\Code.SEL Bot\Code.SEL Bot\bin\Debug\Newtonsoft.Json.dll
+D:\Desktop\Documents\Photoshop Projects\Code.SEL Reborn\Code.SEL Bot\Code.SEL Bot\bin\Debug\Nito.AsyncEx.Concurrent.dll
+D:\Desktop\Documents\Photoshop Projects\Code.SEL Reborn\Code.SEL Bot\Code.SEL Bot\bin\Debug\Nito.AsyncEx.dll
+D:\Desktop\Documents\Photoshop Projects\Code.SEL Reborn\Code.SEL Bot\Code.SEL Bot\bin\Debug\Nito.AsyncEx.Enlightenment.dll
+D:\Desktop\Documents\Photoshop Projects\Code.SEL Reborn\Code.SEL Bot\Code.SEL Bot\bin\Debug\RestSharp.dll
+D:\Desktop\Documents\Photoshop Projects\Code.SEL Reborn\Code.SEL Bot\Code.SEL Bot\bin\Debug\WebSocket4Net.dll
+D:\Desktop\Documents\Photoshop Projects\Code.SEL Reborn\Code.SEL Bot\Code.SEL Bot\bin\Debug\Newtonsoft.Json.xml
+D:\Desktop\Documents\Photoshop Projects\Code.SEL Reborn\Code.SEL Bot\Code.SEL Bot\bin\Debug\Nito.AsyncEx.xml
+D:\Desktop\Documents\Photoshop Projects\Code.SEL Reborn\Code.SEL Bot\Code.SEL Bot\bin\Debug\Nito.AsyncEx.Concurrent.xml
+D:\Desktop\Documents\Photoshop Projects\Code.SEL Reborn\Code.SEL Bot\Code.SEL Bot\bin\Debug\Nito.AsyncEx.Enlightenment.xml
+D:\Desktop\Documents\Photoshop Projects\Code.SEL Reborn\Code.SEL Bot\Code.SEL Bot\bin\Debug\RestSharp.xml
+D:\Desktop\Documents\Photoshop Projects\Code.SEL Reborn\Code.SEL Bot\Code.SEL Bot\obj\Debug\Code.SEL Bot.csprojResolveAssemblyReference.cache
+D:\Desktop\Documents\Photoshop Projects\Code.SEL Reborn\Code.SEL Bot\Code.SEL Bot\bin\Debug\Discord.Net.Audio.dll
+D:\Desktop\Documents\Photoshop Projects\Code.SEL Reborn\Code.SEL Bot\Code.SEL Bot\bin\Debug\NAudio.dll
+D:\Desktop\Documents\Photoshop Projects\Code.SEL Reborn\Code.SEL Bot\Code.SEL Bot\bin\Debug\NAudio.xml
